@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MarieMCodes/MarieMcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello! 👋
 
 - 🔭 I’d like to get involved with generating consumer/user insights & creating awesome digital products
 - 🌱 I’m currently learning data science & AI
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: m2000x@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I can move each of my eyebrows independently!
--->
+
